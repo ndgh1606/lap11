@@ -1,0 +1,3 @@
+int_player_id,str_player_name,str_positions,dt_date_of_birth,int_height,int_weight,int_overall_rating,int_potential_rating,str_best_position,int_best_overall_rating,int_value,int_wage,str_player_image_url,int_team_id,str_nationality
+1,Lionel Andrés Messi Cuccittini,"RW, ST, CF",6/24/1987,170,72,93,93,RW,93,103500000,560000,https://cdn.sofifa.com/players/158/023/21_120.png,5,Argentina
+2,Cristiano Ronaldo dos Santos Aveiro,"ST, LW",2/5/1985,187,83,92,92,ST,92,63000000,220000,https://cdn.sofifa.com/players/020/801/21_1
